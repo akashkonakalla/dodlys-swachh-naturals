@@ -1,0 +1,16 @@
+/* Home page only */
+.home-hero {
+  min-height: 480px;
+}
+.home-hero .hero-content {
+  max-width: 1320px;
+}
+.home-hero .hero-subtitle {
+  max-width: 520px;
+}
+.product-preview .feature-product {
+  min-height: 310px;
+}
+.story-band .story-image {
+  object-fit: cover;
+}

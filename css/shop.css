@@ -1,0 +1,22 @@
+/* Shop page only */
+.shop-hero {
+  min-height: 275px;
+}
+.shop-layout {
+  padding-top: 38px;
+  padding-bottom: 48px;
+}
+.product-area {
+  min-width: 0;
+}
+.category-btn {
+  cursor: pointer;
+}
+.product-card .add-cart {
+  cursor: pointer;
+}
+.product-card .add-cart:focus-visible,
+.category-btn:focus-visible {
+  outline: 2px solid var(--gold);
+  outline-offset: 2px;
+}

@@ -1,0 +1,17 @@
+/* About page only */
+.about-hero {
+  padding: 90px 0;
+}
+.about-hero h1 {
+  max-width: 720px;
+}
+.about-story-image {
+  width: 100%;
+  min-height: 320px;
+  object-fit: cover;
+  border-radius: 14px;
+}
+.about-values {
+  padding-top: 48px;
+  padding-bottom: 56px;
+}

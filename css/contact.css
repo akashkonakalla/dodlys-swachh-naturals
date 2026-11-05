@@ -1,0 +1,18 @@
+/* Contact page only */
+.contact-hero {
+  padding: 82px 0;
+}
+.contact-form {
+  max-width: 760px;
+  margin-left: auto;
+}
+.contact-form textarea {
+  resize: vertical;
+}
+.contact-form .form-control:focus {
+  border-color: var(--green);
+  box-shadow: 0 0 0 0.2rem rgba(0, 83, 47, 0.12);
+}
+.contact-detail {
+  margin: 22px 0;
+}
